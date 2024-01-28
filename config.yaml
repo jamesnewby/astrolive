@@ -1,0 +1,11 @@
+name: "Astrolive"
+description: "Connector for the ASCOM Alpaca REST API designed to work with Home Assistant via MQTT."
+version: "0.5"
+slug: "astrolive"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
